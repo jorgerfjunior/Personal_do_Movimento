@@ -83,7 +83,7 @@ div.p1 {
     }
     
     li {
-      float: right;
+      float: left;
       margin-top: 0px;
     }
     
