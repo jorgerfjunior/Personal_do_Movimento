@@ -52,19 +52,7 @@ div.img2 {
   
 }
 
-
-
-
-div.w3-container {
-  text-indent: 0px;
-  line-height: 1.8;
-  font-size: 20px;
-  text-align: justify;
-  text-align-last: ;
-  margin-top: 200px;
-  margin-right: 30px;
-  margin-left: 30px;
- }
+ 
 
 div.p1 {
   text-indent: 0px;
@@ -74,45 +62,12 @@ div.p1 {
   text-align: center;
 }
 
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      overflow: hidden;
-      background-color: #f7f5f541;
-    }
-    
-    li {
-      float: left;
-      margin-top: 0px;
-    }
-    
-    li a {
-      display: inline;
-      color: white;
-      padding: 5px;
-      text-decoration: none;
-    
-    }
-    
-    li a:hover {
-      background-color: #111;
-    }
+
     </style>
   
     <body>
     
-    <ul>
-      <li><a href="#about"><img src="zap.jpg" alt="instagram" width="25" height="25"></a></li>
-      <li><a href="#about"><img src="ins.jpg" alt="instagram" width="25" height="25"></a></li>
-      
-    </ul>
-
-
-
-    
-
-
+ 
 <div class="img1">
 
 <img src="logo.3.png" alt="logo marca" width="350px">
