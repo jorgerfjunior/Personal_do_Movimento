@@ -27,7 +27,7 @@ margin-top: 100px;
 
 
 div.img1 {
-margin-top: 120px;
+margin-top: 150px;
 
  
   
@@ -90,8 +90,7 @@ div.p1 {
     li a {
       display: inline;
       color: white;
-      text-align: center;
-      padding: 0px;
+      padding: 5px;
       text-decoration: none;
     
     }
