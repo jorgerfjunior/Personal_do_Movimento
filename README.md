@@ -91,7 +91,7 @@ div.p1 {
       display: inline;
       color: white;
       text-align: center;
-      padding: 10px;
+      padding: 0px;
       text-decoration: none;
     
     }
@@ -100,7 +100,7 @@ div.p1 {
       background-color: #111;
     }
     </style>
-    </head>
+  
     <body>
     
     <ul>
@@ -166,4 +166,3 @@ div.p1 {
 </div>
 </footer> 
 </body>
-</html>
