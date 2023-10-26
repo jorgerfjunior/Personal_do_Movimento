@@ -27,7 +27,7 @@ margin-top: 100px;
 
 
 div.img1 {
-margin-top: 150px;
+margin-top: 200px;
 
  
   
